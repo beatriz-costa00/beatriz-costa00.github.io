@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilegit.png"
+  avatar           : "me.jpg"
   name             : "Beatriz Lopes da Costa"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Engineering Physics at Universidade de Lisboa, Ludwig Maximilian University of Munich (LMU) and the Portuguese Quantum Institute (PQI). "
