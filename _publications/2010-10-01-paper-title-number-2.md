@@ -1,13 +1,10 @@
 ---
 title: "Quantum Backdoor - Performing Electronic Side-Channel Analysis on QKD Systems"
-collection: poster
-category: manuscripts
+collection: publications
+category: poster
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This poster was presented at the European Quantum Technologies Conference (EQTC) 2024. It shows the findings later published in the the Physical Review Article'
+excerpt: 'This poster was presented at the European Quantum Technologies Conference (EQTC) 2024. It shows the findings later published in Physical Review Article'
 date: 2024-11-18
 venue: 'European Quantum Technologies Conference (2024)'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+slidesurl: 'https://beatriz-costa00.github.io/files/poster_session_overviewEQTC2024.pdf'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
