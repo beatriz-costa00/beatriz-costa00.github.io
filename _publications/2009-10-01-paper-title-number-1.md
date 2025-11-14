@@ -3,7 +3,7 @@ title: "Power-consumption back door in quantum key distribution"
 collection: publications
 category: journal
 permalink: /publication/power-consumption-backdoor
-excerpt: 'This paper is about hacking a QKD system via the power-consumption data of the FPGA controlling its electro-optical modulators'
+excerpt: 'This paper reports a side-channel attack on a QKD system using power-consumption data from the FPGA driving its electro-optical modulators.'
 date: 2025-11-03
 venue: 'Physical Review Applied'
 paperurl: 'https://beatriz-costa00.github.io/files/pc_backdoor.pdf'
