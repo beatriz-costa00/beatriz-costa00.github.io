@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant of Computing and Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Instituto Superior Técnico, University of Lisbon"
+date: 2023-01-01
+location: "Lisbon, Portugal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching assistant for the Computing and Programming course for first-year students in Chemical Engineering and Materials Engineering. Awarded the "Outstanding Teaching Diploma" by the University for my performance as a TA.
