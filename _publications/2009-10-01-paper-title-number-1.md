@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Power-consumption back door in quantum key distribution"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+category: journal
+permalink: /publication/power-consumption-backdoor
+excerpt: 'This paper is about hacking a QKD system via the power-consumption data of the FPGA controlling its electro-optical modulators'
+date: 2025-11-03
+venue: 'Physical Review Applied'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Lopes da Costa, B., Bolaños, M. R., Chaves, R., Narduzzi, C., Avesani, M., Marangon, D. G., Stanco, A., Vallone, G., Villoresi, P., & Omar, Y. (2025). Power-consumption back door in quantum key distribution. Physical Review Applied, 24(5), 54004. https://doi.org/10.1103/f92x-c3zj'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
