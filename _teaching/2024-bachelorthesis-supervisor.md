@@ -7,5 +7,5 @@ venue: "Instituto Superior Técnico, University of Lisbon"
 date: 2024-01-01
 location: "Lisbon, Portugal"
 ---
-Supervisor of a Bachelor thesis on entanglement distribution.
+Supervisor of two bachelor thesis on entanglement distribution.
 
